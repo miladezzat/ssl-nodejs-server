@@ -7,5 +7,3 @@
 3. Install dependencies: `npm install`
 4. Start the server : `npm start`
 5. Open the [https://localhost:3000](https://localhost:3000), to see the ssl
-
-
